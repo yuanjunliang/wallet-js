@@ -1,2 +1,2 @@
-# eos-wallet-js
-eos-wallet-js
+# wallet-js
+wallet-js
